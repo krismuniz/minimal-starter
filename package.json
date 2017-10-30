@@ -1,0 +1,30 @@
+{
+  "name": "minimal-starter",
+  "version": "1.0.0",
+  "description": "A bare-minimum project starter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "cookie-parser": "1.4.3",
+    "express": "4.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/krismuniz/minimal-starter"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "author": "Kristian Muñiz <contact@krismuniz.com> (http://www.krismuniz.com)",
+  "license": "MIT",
+  "keywords": [
+    "minimal",
+    "starter",
+    "project",
+    "new",
+    "glitch"
+  ]
+}
