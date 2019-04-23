@@ -7,9 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "body-parser": "1.17.2",
+    "body-parser": "^1.18.3",
     "cookie-parser": "1.4.3",
-    "express": "4.15.4"
+    "express": "^4.16.4"
   },
   "repository": {
     "type": "git",
