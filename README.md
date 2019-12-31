@@ -3,7 +3,7 @@
 [![λ:Minimal](https://img.shields.io/badge/%CE%BB-minimal-111E33.svg?style=flat-square)](http://standardjs.com/)
 [![Code-Style:Standard](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](http://standardjs.com/) [![License:MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-A minimal Node.js (v8) project starter with Express.
+A minimal Node.js (v12) project starter with Express.
 
 * Only three basic npm dependencies to get your web service up and running in seconds
   * `express`
@@ -23,8 +23,8 @@ Click the **Remix on Glitch** button to spin up `minimal-starter` for quick prot
 
 ## System Requirements
 
-* Node.js (version 8.x or later)
-* npm (version 5.x or later)
+* Node.js (version 12.x or later)
+* npm (whichever version comes with your Node.js v12.x installation)
 
 ## Deploy Locally
 
