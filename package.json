@@ -7,16 +7,16 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "cookie-parser": "1.4.3",
-    "express": "^4.16.4"
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
   },
   "repository": {
     "type": "git",
     "url": "https://www.github.com/krismuniz/minimal-starter"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
   },
   "author": "Kristian Muñiz <contact@krismuniz.com> (http://www.krismuniz.com)",
   "license": "MIT",
